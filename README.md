@@ -1,6 +1,6 @@
 <h2>
   À propos
-  <a href="https://commons.wikimedia.org/wiki/File:Android_logo_(2019-2023).svg">Google</a>
+  <img src="https://commons.wikimedia.org/wiki/File:Android_logo_(2019-2023).svg" width="40">
 </h2>
 
 Je suis étudiant en génie logiciel à l'ESIS Salama et développeur Android en devenir, avec un intérêt particulier pour le développement natif avec **Kotlin et Jetpack Compose**.
