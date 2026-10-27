@@ -2,8 +2,6 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="Developer coding animation" />
 
-  <h1>Gaël Kapimo Kaniki</h1>
-
   <p><b>Android Developer · Software Engineering Student</b><br/>
   📍 Lubumbashi, DR Congo</p>
 
@@ -26,7 +24,7 @@ I build mobile and web applications, and I improve through hands-on projects.
   <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,tailwind,js,python,git,github,linux,vscode,webstorm" alt="Tech stack"/>
 </p>
 
-**Mobile:** Kotlin · Jetpack Compose · Java · Android Studio
+**Mobile:** Kotlin · Jetpack Compose · Java · Android Studio <br>
 **Web:** HTML · CSS · Tailwind CSS · JavaScript
 **Tools:** Git · GitHub · Linux · SQL · Python
 
