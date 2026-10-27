@@ -3,10 +3,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="850" height="300" alt="Animation développeur" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
-
 </div>
 
 ---
@@ -43,11 +39,9 @@ Mon objectif est de concevoir des applications utiles, avec un code lisible, str
 
 Ouvert aux **stages, collaborations et projets de développement**, particulièrement dans le domaine Android.
 
-📧 **E-mail :** [gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com)
-
-💼 **LinkedIn :** [Gaël Kapimo Kaniki](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
-
-🌐 **Portfolio :** [gaelkapimo-dev.vercel.app](https://gaelkapimo-dev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
 
 ---
 
