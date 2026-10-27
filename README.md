@@ -1,8 +1,10 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="Animation développeur" />
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="460" alt="Animation développeur" />
 
 # Gaël Kapimo Kaniki
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&width=520&lines=D%C3%A9veloppeur+Android+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel" alt="Animation de texte" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=D%C3%A9veloppeur+Android+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel" alt="Animation de texte" />
 
 📍 Lubumbashi, RD Congo
 
@@ -10,51 +12,54 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
 
----
+</div>
 
-## `01` À propos
+<br/>
 
-Étudiant en génie logiciel à l'**ESIS Salama**, passionné par le développement Android natif.
+## 👨‍💻 À propos
 
-- 📱 Je crée des applications Android avec **Kotlin et Jetpack Compose**
-- ☕ Je consolide mes bases en Java et en programmation orientée objet
-- 🌐 Je réalise des sites web en HTML, CSS et JavaScript
-- 🐧 Je travaille sous Linux
+Étudiant en génie logiciel à l'**ESIS Salama**, je me spécialise dans le développement **Android natif**. J'apprends en construisant des projets concrets et en consolidant mes bases chaque jour.
 
-> Écrire un meilleur code chaque jour.
+## 🛠️ Technologies
 
-## `02` Technologies
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,tailwind,js,python,git,github,linux,vscode,webstorm" alt="Technologies" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## `03` Projets
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/gaelkapimo/NOM_DU_DEPOT">Parole Inspirée</a></h3>
-      Application Android pour une communauté d'église, pour partager des messages inspirants.<br/><br/>
-      <code>Kotlin</code> <code>Jetpack Compose</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/gaelkapimo/NOM_DU_DEPOT">SoraCert</a></h3>
-      Application Android pour aider les apprenants à trouver des opportunités, certifications et événements tech.<br/><br/>
-      <code>Kotlin</code> <code>Jetpack Compose</code>
-    </td>
-  </tr>
-</table>
+## 🚀 Projets
 
-## `04` En apprentissage
+### 📱 [Parole Inspirée](https://github.com/gaelkapimo/NOM_DU_DEPOT)
+Application Android pour une communauté d'église, conçue pour partager des messages inspirants.
+`Kotlin` · `Jetpack Compose`
+
+### 🎓 [Mon Portfolio](https://github.com/gaelkapimo/NOM_DU_DEPOT)
+Application Android pour aider les apprenants à trouver des opportunités, certifications et événements tech.
+`Kotlin` · `Jetpack Compose`
+
+## 📚 En apprentissage
 
 - Architecture Android (MVVM, clean code)
 - Kotlin et Jetpack Compose avancés
 - API REST et bases de données
 
-## `05` Statistiques GitHub
+## 📫 Contact
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaelkapimo&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Statistiques GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelkapimo&layout=compact&hide_border=true&theme=transparent" height="165" alt="Langages les plus utilisés" />
+Ouvert aux échanges, stages et collaborations :
+**[gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com)** · **[Portfolio](https://gaelkapimo-dev.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324)**
 
----
+<br/>
 
-*Apprendre avec constance. Construire avec intention.*
+<div align="center">
+  <i>Apprendre avec constance. Construire avec intention.</i>
+</div>
