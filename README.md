@@ -1,5 +1,5 @@
 <h2>
-  A propos
+  About
   <img src="./android.svg"
        width="35"
        alt="Android"
