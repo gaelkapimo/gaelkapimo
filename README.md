@@ -1,9 +1,9 @@
-<h2 align-items="center">
+<h2>
   À propos
-  <img src="android.svg"
+  <img src="./android.svg"
        width="35"
        alt="Android"
-       align="center" />
+       style="vertical-align: middle;" />
 </h2>
 
 Je suis étudiant en génie logiciel à l'ESIS Salama et développeur Android en devenir, avec un intérêt particulier pour le développement natif avec **Kotlin et Jetpack Compose**.
