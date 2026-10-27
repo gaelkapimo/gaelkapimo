@@ -1,6 +1,6 @@
 <h2>
   À propos
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF1eDE4bHJnMmphZ2kycXZrcGhtdGQ3NnV0cG91aTQ4bDVmc2Y1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif"
+  <img src="https://www.vecteezy.com/vector-art/21514746-android-logo-icon-symbol-green-design-operating-system-software-phone-vector-illustration-with-black-background"
        width="40"
        align="center"
        alt="Android animé" />
