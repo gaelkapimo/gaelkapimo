@@ -1,6 +1,6 @@
 <h2>
   À propos
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Android_logo_(2019-2023).svg"
+  <img src="android"
        width="40"
        alt="Android"
        align="center" />
