@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=0A66C2&center=true&vCenter=true&width=540&lines=D%C3%A9veloppeur+Android+%7C+Kotlin+%26+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel+%C3%A0+l%27ESIS+Salama;Je+construis+des+applications+utiles" alt="Développeur Android, étudiant en génie logiciel" />
 
-📍 Lubumbashi, République démocratique du Congo
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
