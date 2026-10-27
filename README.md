@@ -2,9 +2,6 @@
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="Developer coding animation" />
 
-  <p><b>Android Developer · Software Engineering Student</b><br/>
-  📍 Lubumbashi, DR Congo</p>
-
   <a href="https://gaelkapimo-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gaelkapimo18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
