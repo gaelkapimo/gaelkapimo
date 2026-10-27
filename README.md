@@ -1,9 +1,6 @@
 <h2>
   À propos
-  <img src="https://www.vecteezy.com/vector-art/21514746-android-logo-icon-symbol-green-design-operating-system-software-phone-vector-illustration-with-black-background"
-       width="40"
-       align="center"
-       alt="Android animé" />
+  <a href="https://commons.wikimedia.org/wiki/File:Android_logo_(2019-2023).svg">Google</a>
 </h2>
 
 Je suis étudiant en génie logiciel à l'ESIS Salama et développeur Android en devenir, avec un intérêt particulier pour le développement natif avec **Kotlin et Jetpack Compose**.
