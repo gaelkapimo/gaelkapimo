@@ -47,11 +47,9 @@
 
 Ouvert aux **stages, collaborations et projets Android**. Le moyen le plus rapide de me joindre : l'e-mail.
 
-| | |
-|---|---|
-| 📧 **E-mail** | [gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com) |
-| 💼 **LinkedIn** | [Gaël Kapimo Kaniki](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/) |
-| 🌐 **Portfolio** | [gaelkapimo-dev.vercel.app](https://gaelkapimo-dev.vercel.app) |
+📧 **E-mail** | [gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com) |
+💼 **LinkedIn** | [Gaël Kapimo Kaniki](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/) |
+🌐 **Portfolio** | [gaelkapimo-dev.vercel.app](https://gaelkapimo-dev.vercel.app) |
 
 ---
 
