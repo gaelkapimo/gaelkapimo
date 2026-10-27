@@ -1,6 +1,6 @@
 <h2>
   À propos
-  <img src="android"
+  <img src="android.svg"
        width="40"
        alt="Android"
        align="center" />
