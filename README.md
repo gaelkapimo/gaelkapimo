@@ -35,7 +35,6 @@ Mon objectif est de concevoir des applications utiles, avec un code lisible, str
 | 🌐 **[Portfolio](https://gaelkapimo-dev.vercel.app)** | Site personnel présentant mon parcours, mes compétences et mes réalisations. | HTML · CSS · JavaScript |
 | 🚀 **SoraCert** | Application Android dédiée aux certifications, aux défis et aux opportunités dans le domaine de la tech. | Kotlin · Jetpack Compose |
 
-## Contact
 
 Ouvert aux **stages, collaborations et projets de développement**, particulièrement dans le domaine Android.
 
