@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="850" height="300" alt="Animation développeur" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=0A66C2&center=true&vCenter=true&width=540&lines=D%C3%A9veloppeur+Android+%7C+Kotlin+%26+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel+%C3%A0+l%27ESIS+Salama;Je+construis+des+applications+utiles" alt="Développeur Android, étudiant en génie logiciel" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=0A66C2&center=true&vCenter=true&width=540&lines=D%C3%A9veloppeur+Android+%7C+Kotlin+%26+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel+%C3%A0+l%27ESIS+Salama;" alt="Développeur Android, étudiant en génie logiciel" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
