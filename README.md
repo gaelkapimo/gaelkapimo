@@ -33,7 +33,7 @@ Mon objectif est de concevoir des applications utiles, avec un code lisible, str
 
 ---
 
-Ouvert aux **stages, collaborations et projets de développement**, particulièrement dans le domaine Android.
+Ouvert aux **stages, collaborations et projets de développement**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
