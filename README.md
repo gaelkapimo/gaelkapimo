@@ -33,7 +33,6 @@ Mon objectif est de concevoir des applications utiles, avec un code lisible, str
 |---|---|---|
 | 📱 **[Parole Inspirée](https://github.com/gaelkapimo/NOM_DU_DEPOT)** | Application Android destinée à une communauté chrétienne, avec authentification et fonctionnalités communautaires. | Kotlin · Jetpack Compose · Firebase |
 | 🌐 **[Portfolio](https://gaelkapimo-dev.vercel.app)** | Site personnel présentant mon parcours, mes compétences et mes réalisations. | HTML · CSS · JavaScript |
-| 🚀 **SoraCert** | Application Android dédiée aux certifications, aux défis et aux opportunités dans le domaine de la tech. | Kotlin · Jetpack Compose |
 
 
 Ouvert aux **stages, collaborations et projets de développement**, particulièrement dans le domaine Android.
