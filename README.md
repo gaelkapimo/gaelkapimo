@@ -1,4 +1,8 @@
-<h1 align="center">Salut, moi c'est Gaël 👋</h1>
+<h1 align="center">Salut, moi c'est Gaël KAPIMO 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGowcW16NzM4dGxqZzBzZ3YwOGF1Nzg4cGl1cTk0N2V3Ym1vbjJ6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Programmeur en train de coder">
+</p>
 
 <p align="center">
   Développeur mobile & web · Étudiant en génie logiciel à l'ESIS Salama (Lubumbashi, RDC)
