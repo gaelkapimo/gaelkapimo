@@ -27,8 +27,6 @@
 
 ## Compétences
 
-## Compétences
-
 | Domaine | Technologies | Niveau |
 |---|---|---|
 | **📱 Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) | Utilisé en projets |
