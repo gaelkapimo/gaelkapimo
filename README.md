@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="850" height="400" alt="Animation développeur" />
-#
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=0A66C2&center=true&vCenter=true&width=540&lines=D%C3%A9veloppeur+Android+%7C+Kotlin+%26+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel+%C3%A0+l%27ESIS+Salama;Je+construis+des+applications+utiles" alt="Développeur Android, étudiant en génie logiciel" />
 
