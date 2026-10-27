@@ -1,70 +1,60 @@
-<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="Animation développeur" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="Developer coding animation" />
+# Gaël Kapimo Kaniki
 
-  <h1>Gaël Kapimo Kaniki</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&width=520&lines=D%C3%A9veloppeur+Android+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel" alt="Animation de texte" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Android+Developer+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose;Software+Engineering+Student" alt="Typing animation" />
+📍 Lubumbashi, RD Congo
 
-  <p>📍 Lubumbashi, DR Congo</p>
-
-  <a href="https://gaelkapimo-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gaelkapimo18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
 
 ---
 
-## `01` About
+## `01` À propos
 
-Software engineering student at **ESIS Salama**, passionate about native Android development.
+Étudiant en génie logiciel à l'**ESIS Salama**, passionné par le développement Android natif.
 
-- 📱 Building Android apps with **Kotlin and Jetpack Compose**
-- ☕ Strengthening my Java and OOP foundations
-- 🌐 Creating websites with HTML, CSS and JavaScript
-- 🐧 Working on Linux
+- 📱 Je crée des applications Android avec **Kotlin et Jetpack Compose**
+- ☕ Je consolide mes bases en Java et en programmation orientée objet
+- 🌐 Je réalise des sites web en HTML, CSS et JavaScript
+- 🐧 Je travaille sous Linux
 
-> Writing better code every day.
+> Écrire un meilleur code chaque jour.
 
-## `02` Tech Stack
+## `02` Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,tailwind,js,python,git,github,linux,vscode,webstorm" alt="Tech stack"/>
-</p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,tailwind,js,python,git,github,linux,vscode,webstorm" alt="Technologies" />
 
-## `03` Projects
+## `03` Projets
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/gaelkapimo/NOM_DU_DEPOT">Parole Inspirée</a></h3>
-      Android app for a church community, built to share inspiring messages.<br/><br/>
+      Application Android pour une communauté d'église, pour partager des messages inspirants.<br/><br/>
       <code>Kotlin</code> <code>Jetpack Compose</code>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/gaelkapimo/NOM_DU_DEPOT">SoraCert</a></h3>
-      Android app helping learners find tech opportunities, certifications and events.<br/><br/>
+      Application Android pour aider les apprenants à trouver des opportunités, certifications et événements tech.<br/><br/>
       <code>Kotlin</code> <code>Jetpack Compose</code>
     </td>
   </tr>
 </table>
 
-## `04` Currently Learning
+## `04` En apprentissage
 
-- Android architecture (MVVM, clean code)
-- Advanced Kotlin and Jetpack Compose
-- REST APIs and databases
+- Architecture Android (MVVM, clean code)
+- Kotlin et Jetpack Compose avancés
+- API REST et bases de données
 
-## `05` GitHub Stats
+## `05` Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaelkapimo&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelkapimo&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=gaelkapimo&show_icons=true&hide_border=true&theme=transparent" height="165" alt="Statistiques GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelkapimo&layout=compact&hide_border=true&theme=transparent" height="165" alt="Langages les plus utilisés" />
 
 ---
 
-<div align="center">
-  <i>Learn consistently. Build intentionally. Improve every day.</i>
-</div>
+*Apprendre avec constance. Construire avec intention.*
