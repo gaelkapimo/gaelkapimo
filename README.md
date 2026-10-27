@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Gaël KAPIMO 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3dzF2YWNkajduemkwajk2dzFsaTYyaDlvd2lxcWd4c2U3b3hmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" width="900" height="400" alt="Programmeur en train de coder">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWl3dzF2YWNkajduemkwajk2dzFsaTYyaDlvd2lxcWd4c2U3b3hmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHNzcDRkcTB6eHE1YWNreHNkcWhreXd3Y202dDhpd3NkenZvOHk4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DX1cytoIQvnmgqBlQ3/giphy.gif)" width="900" height="400" alt="Programmeur en train de coder">
 </p>
 
 <p align="center">
