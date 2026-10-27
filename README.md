@@ -2,12 +2,14 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajAyMmd3N2k1dGV3NzVvYTRyc2R5bnNjcW10N3EzZHMwcnliMGQxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIqmM5tTjmpOB9mpbn/giphy.gif" width="440" alt="Animation développeur" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=0A66C2&center=true&vCenter=true&width=540&lines=D%C3%A9veloppeur+Android+%7C+Kotlin+%26+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel+%C3%A0+l'ESIS+Salama;Je+construis+des+applications+utiles" alt="Animation de texte" />
+# Gaël Kapimo Kaniki
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1400&color=0A66C2&center=true&vCenter=true&width=540&lines=D%C3%A9veloppeur+Android+%7C+Kotlin+%26+Jetpack+Compose;%C3%89tudiant+en+g%C3%A9nie+logiciel+%C3%A0+l%27ESIS+Salama;Je+construis+des+applications+utiles" alt="Développeur Android, étudiant en génie logiciel" />
 
 📍 Lubumbashi, République démocratique du Congo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
 
 </div>
@@ -41,7 +43,7 @@
 
 | Projet | Description | Technologies |
 |---|---|---|
-| 📱 **[Parole Inspirée](https://github.com/gaelkapimo/)** | Application Android pour une communauté d'église, dédiée au partage de messages inspirants. | Kotlin · Jetpack Compose |
+| 📱 **[Parole Inspirée](https://github.com/gaelkapimo/NOM_DU_DEPOT)** | Application Android pour une communauté d'église, dédiée au partage de messages inspirants. | Kotlin · Jetpack Compose |
 | 🌐 **[Portfolio](https://gaelkapimo-dev.vercel.app)** | Mon site personnel, pour présenter mon parcours et mes réalisations. | HTML · CSS · JavaScript |
 
 ## En cours d'apprentissage
@@ -52,24 +54,18 @@
 
 ## Contact
 
-Je suis ouvert aux **stages, collaborations et projets Android**. Le moyen le plus rapide de me joindre : l'e-mail.
+Ouvert aux **stages, collaborations et projets Android**. Le moyen le plus rapide de me joindre : l'e-mail.
 
 | | |
 |---|---|
 | 📧 **E-mail** | [gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com) |
 | 💼 **LinkedIn** | [Gaël Kapimo Kaniki](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/) |
 | 🌐 **Portfolio** | [gaelkapimo-dev.vercel.app](https://gaelkapimo-dev.vercel.app) |
-| 📍 **Localisation** | Lubumbashi, RD Congo (disponible aussi à distance) |
+
+---
 
 <div align="center">
 
-[![Écrire un e-mail](https://img.shields.io/badge/%C3%89crivez--moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
-[![Me suivre sur LinkedIn](https://img.shields.io/badge/Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0A66C2&center=true&vCenter=true&width=420&lines=Penser+simple.;Coder+propre.;Livrer+utile." alt="Penser simple. Coder propre. Livrer utile." />
 
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Apprendre avec constance. Construire avec intention.</i>
 </div>
