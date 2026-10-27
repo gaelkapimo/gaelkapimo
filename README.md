@@ -38,10 +38,3 @@ Ouvert aux **stages, collaborations et projets de développement**, particulièr
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://gaelkapimo-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0A66C2&center=true&vCenter=true&width=420&lines=Learn.+Inspire.+Build.;Think.+Code.+Improve.;Curiosity.+Creativity.+Code." alt="Learn. Inspire. Build." />
-
-</div>
