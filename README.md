@@ -54,6 +54,6 @@ Ouvert aux **stages, collaborations et projets Android**. Le moyen le plus rapid
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0A66C2&center=true&vCenter=true&width=420&lines=Penser+simple.;Coder+propre.;Livrer+utile." alt="Penser simple. Coder propre. Livrer utile." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1500&color=0A66C2&center=true&vCenter=true&width=420&lines=Learn+Inspire+Build;Think+Code+Repeat;Curiosity+Creativity+Code" alt="Penser simple. Coder propre. Livrer utile." />
 
 </div>
