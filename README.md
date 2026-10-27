@@ -1,7 +1,3 @@
-
-
----
-
 ## À propos
 
 Je suis étudiant en génie logiciel à l'ESIS Salama et développeur Android en devenir, avec un intérêt particulier pour le développement natif avec **Kotlin et Jetpack Compose**.
