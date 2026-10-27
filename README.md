@@ -44,12 +44,6 @@
 | 📱 **[Parole Inspirée](https://github.com/gaelkapimo/NOM_DU_DEPOT)** | Application Android pour une communauté d'église, dédiée au partage de messages inspirants. | Kotlin · Jetpack Compose |
 | 🌐 **[Portfolio](https://gaelkapimo-dev.vercel.app)** | Mon site personnel, pour présenter mon parcours et mes réalisations. | HTML · CSS · JavaScript |
 
-## En cours d'apprentissage
-
-- Architecture Android : MVVM et principes du clean code
-- Kotlin et Jetpack Compose avancés
-- API REST, bases de données et notions de backend
-
 ## Contact
 
 Ouvert aux **stages, collaborations et projets Android**. Le moyen le plus rapide de me joindre : l'e-mail.
