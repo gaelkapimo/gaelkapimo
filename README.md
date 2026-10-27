@@ -52,8 +52,21 @@
 
 ## Contact
 
-Ouvert aux échanges, aux stages et aux collaborations.
-📧 [gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com) · 🌐 [Portfolio](https://gaelkapimo-dev.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
+Je suis ouvert aux **stages, collaborations et projets Android**. Le moyen le plus rapide de me joindre : l'e-mail.
+
+| | |
+|---|---|
+| 📧 **E-mail** | [gaelkapimo18@gmail.com](mailto:gaelkapimo18@gmail.com) |
+| 💼 **LinkedIn** | [Gaël Kapimo Kaniki](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/) |
+| 🌐 **Portfolio** | [gaelkapimo-dev.vercel.app](https://gaelkapimo-dev.vercel.app) |
+| 📍 **Localisation** | Lubumbashi, RD Congo (disponible aussi à distance) |
+
+<div align="center">
+
+[![Écrire un e-mail](https://img.shields.io/badge/%C3%89crivez--moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaelkapimo18@gmail.com)
+[![Me suivre sur LinkedIn](https://img.shields.io/badge/Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324/)
+
+</div>
 
 <br/>
 
