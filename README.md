@@ -1,4 +1,10 @@
-## À propos                                  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJreW90Zmt6NmN6ZGlxMnN4dTN6MmZ5d3M0OHpvb3Jva3MwczFlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/llarwdtFqG63IlqUR1/giphy.gif" width="40">
+<h2>
+  À propos
+  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif"
+       width="40"
+       align="center"
+       alt="Android animé" />
+</h2>
 
 Je suis étudiant en génie logiciel à l'ESIS Salama et développeur Android en devenir, avec un intérêt particulier pour le développement natif avec **Kotlin et Jetpack Compose**.
 
