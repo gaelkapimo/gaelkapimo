@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Salut, moi c'est Gaël 👋</h1>
 
-<!--
-**gaelkapimo/gaelkapimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Développeur mobile & web · Étudiant en génie logiciel à l'ESIS Salama (Lubumbashi, RDC)
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Je développe des applications mobiles (Kotlin, Android Studio) et des sites web
+- 📚 J'approfondis actuellement Java et Kotlin
+- 🎓 Étudiant en Licence 3 en génie logiciel
+- 🌍 Basé à Lubumbashi, République démocratique du Congo
+
+## 🛠️ Technologies
+
+**Mobile :** Kotlin · Java · Android Studio · Jetpack Compose
+**Web :** HTML5 · CSS · Tailwind CSS · JavaScript
+**Autres :** Python · SQL · Linux · Git
+**Outils :** Visual Studio Code · WebStorm
+
+## 📫 Me contacter
+
+- 🌐 Portfolio : [gaelkapimo-dev.vercel.app](https://gaelkapimo-dev.vercel.app)
+- ✉️ E-mail : gaelkapimo18@gmail.com
