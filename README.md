@@ -1,7 +1,7 @@
 <h2>
   À propos
   <img src="android.svg"
-       width="40"
+       width="35"
        alt="Android"
        align="center" />
 </h2>
