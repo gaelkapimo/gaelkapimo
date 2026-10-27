@@ -1,9 +1,9 @@
 <h2>
   À propos
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Android_robot_%282019-2023%29.svg"
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Android_logo_(2019-2023).svg"
        width="40"
-       align="center"
-       alt="Logo Android" />
+       alt="Android"
+       align="center" />
 </h2>
 
 Je suis étudiant en génie logiciel à l'ESIS Salama et développeur Android en devenir, avec un intérêt particulier pour le développement natif avec **Kotlin et Jetpack Compose**.
