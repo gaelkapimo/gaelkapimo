@@ -1,4 +1,4 @@
-<h2>
+<h2 align-items="center">
   À propos
   <img src="android.svg"
        width="35"
