@@ -16,13 +16,6 @@
 
 Étudiant en génie logiciel (Licence 3), je me spécialise dans le développement **Android natif**. Je progresse en construisant des projets concrets, avec un objectif simple : écrire un code propre, maintenable et utile.
 
-| | |
-|---|---|
-| 🎓 **Formation** | Génie logiciel, ESIS Salama (Université Don Bosco) |
-| 📱 **Spécialité** | Développement Android avec Kotlin et Jetpack Compose |
-| 🌐 **Aussi** | Développement web (HTML, CSS, JavaScript) |
-| 🐧 **Environnement** | Linux, Android Studio, VS Code, WebStorm |
-
 ## Compétences
 
 | Domaine | Technologies | Niveau |
