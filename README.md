@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/gael-kapimo-kaniki-4a2389324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gaelkapimo18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-</div>
-
----
 
 ## About
 
