@@ -28,8 +28,8 @@ Mon objectif est de concevoir des applications utiles, avec un code lisible, str
 
 | Projet | Description | Technologies |
 |---|---|---|
-| 📱 **[Parole Inspirée](https://github.com/gaelkapimo/NOM_DU_DEPOT)** | Application Android destinée à une communauté chrétienne, avec authentification et fonctionnalités communautaires. | Kotlin · Jetpack Compose · Firebase |
-| 🌐 **[Portfolio](https://gaelkapimo-dev.vercel.app)** | Site personnel présentant mon parcours, mes compétences et mes réalisations. | HTML · CSS · JavaScript |
+|**[Parole Inspirée](https://github.com/gaelkapimo/NOM_DU_DEPOT)** | Application Android destinée à une communauté chrétienne, avec authentification et fonctionnalités communautaires. | Kotlin · Jetpack Compose · Firebase |
+|**[Portfolio](https://gaelkapimo-dev.vercel.app)** | Site personnel présentant mon parcours, mes compétences et mes réalisations. | HTML · CSS · JavaScript |
 
 ---
 
